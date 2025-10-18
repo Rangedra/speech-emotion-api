@@ -4,3 +4,4 @@ pyaudio
 noisereduce
 scikit-learn
 flask
+gunicorn
