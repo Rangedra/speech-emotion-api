@@ -22,5 +22,3 @@ def detect_emotion():
     emotion = predict_emotion_from_audio("temp.wav")
     return jsonify({"emotion": emotion})
 
-if __name__ == "__main__":
-    app.run(debug=True)
