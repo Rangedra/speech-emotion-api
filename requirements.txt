@@ -1,6 +1,5 @@
 keras
 librosa
-pyaudio
 noisereduce
 scikit-learn
 flask
